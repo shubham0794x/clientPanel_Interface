@@ -17,3 +17,6 @@ In the project directory, you can run:
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+## Accessibility
+### This milestone, we again received helpful feedback from our community, which helped us identify and tackle many accessibility issues. Highlights:
