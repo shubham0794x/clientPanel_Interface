@@ -52,4 +52,16 @@ Before you get started, please take a few minutes and get acquainted with this a
 
 - To combat this from happening we're going to refactor our application to use `Context API`, making it easier and more effiecent to access data across our application.
 
+## MVP Requirements:_
+
+- Create a `ProductContext` and a `CartContext`
+- Use the Provider Component from `ProductContext` and `CartContext` to provide data to child components
+- Consume data using the `useContext` hook from `ProductContext` and `CartContext`
+
+## Stretch Problems
+
+Do not attempt stretch problems until MVP has been reached and a final commit has been made.
+
+- Create a `removeItem` function that allows you to remove an item from your cart with a click of a button. This `removeItem` function should be able to be consumed from your `ShoppingCartItem` component.
+  Remember each item has an `id` this will help out a lot while creating your removeItem function!
 
