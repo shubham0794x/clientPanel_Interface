@@ -40,3 +40,6 @@ Follow these steps for completing your project.
 - [ ] Your team lead will count the project as complete by merging the branch back into master.
 - [ ] Do your magic!
 
+# Project - Shopping Cart
+
+
