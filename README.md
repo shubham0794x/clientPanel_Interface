@@ -7,7 +7,7 @@ In the project you will take your newfound knowledge of `Context API` and `React
 
 ## Scripts
 
-Install node modules
+Install node package modules
 
 #### `npm install`
 
